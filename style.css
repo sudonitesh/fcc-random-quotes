@@ -1,0 +1,47 @@
+html{
+	height: 100%;
+}
+body {
+
+	height: 100%;
+  background-color: #333;
+  color: #333;
+  font-family: 'Raleway', sans-serif;
+  font-weight:400;
+}
+h1{
+	padding: 10px 10px 0px 10px;
+	margin: auto;
+
+
+}
+.quoteArea{
+	position: relative;
+	margin: 10% auto auto auto;
+	border-radius: 5px;
+	width: 500px;
+	display: table;
+	padding: 30px 50px 10px 50px;
+	background-color: #fff;
+
+
+}
+
+.quoteArea .quoteText{
+	height: auto;
+		width: 500px;
+
+	float: none;
+	font-size: 170%;
+	font-weight: 500;
+}
+.quoteArea .quoteText .i{
+	margin-right: 50%;
+}
+
+.allButtons .buttons .button{
+	font-size: 1.7em;
+}
+.allButtons #changeQuote {
+	font-size: 1.5em;
+}
